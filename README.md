@@ -121,6 +121,8 @@ The dashboard focuses on **decisions and actions**, while advanced analytics run
 📌 **Power BI Dashboard:**
 [Add Web Link or Video Demo Here]
 
+## Project Dashboard Preview
+![Sales Dashboard](https://youtu.be/k6cTDjpT_kc)
 ---
 
 ### 💬 Final Positioning Statement (Very Important)
